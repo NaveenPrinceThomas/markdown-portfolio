@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ **MY BEST QUALITIES:**
+ * ***Authentic***
+ * ***Character-Driven***
+ * ***Engaging***
+ * ***Humble***
+ * ***Listener***
+ * ***Supportive***
+ * ***Trustworthy***
+ * ***Wise***
+ * ***Visionary***
